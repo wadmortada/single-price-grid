@@ -11,7 +11,7 @@ body {
     background-color: #E6EFF6;
 }
 
-@media screen and (min-width: 640px){
+@media screen and (min-width: 768px) {
     
     main {
         position: absolute;
@@ -107,7 +107,7 @@ body {
 
 
 
-@media screen and (min-width: 280px){
+@media screen and (min-width: 280px) and (max-width: 767px){
     
     main {
         margin: 3rem 1.5rem;
