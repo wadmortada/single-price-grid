@@ -22,4 +22,4 @@ https://wadmortada.github.io/four-card-feature/
 
 ## Finally
 
-Give Me a feedback And Enjoy Coding
+Give Me A Feedback And Enjoy Coding
